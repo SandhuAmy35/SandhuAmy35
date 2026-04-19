@@ -47,17 +47,21 @@
 ### 📊 Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SandhuAmy35&bg_color=00000000&hide_border=true&hide_rank=true&include_all_commits=false&count_private=false&title_color=5391FE&icon_color=5391FE&text_color=c9c9c9" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=SandhuAmy35&background=00000000&hide_border=true&ring=5391FE&fire=5391FE&currStreakLabel=5391FE&sideNums=c9c9c9&currStreakNum=c9c9c9&sideLabels=c9c9c9&dates=c9c9c9" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SandhuAmy35&bg_color=00000000&hide_border=true&layout=compact&title_color=5391FE&text_color=c9c9c9" width="50%" />
-</div>
-
-<br>
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=SandhuAmy35&icon=7&color=5391FE&style=flat-square" alt="Profile Views" />
-  </a>
+  <table width="100%" align="center" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td valign="top" align="center" width="50%" style="border: none; background: transparent;">
+        <img src="https://github-readme-stats.shion.dev/api?username=SandhuAmy35&bg_color=00000000&hide_border=true&hide_rank=true&include_all_commits=false&count_private=false&title_color=5391FE&icon_color=5391FE&text_color=c9c9c9" alt="Armaan's GitHub Stats" />
+        <br/><br/><br/>
+        <a href="https://visitcount.itsvg.in">
+          <img src="https://komarev.com/ghpvc/?username=SandhuAmy35&icon=7&color=5391FE&style=flat-square" alt="Profile Views" />
+        </a>
+      </td>
+      
+      <td valign="top" align="center" width="50%" style="border: none; background: transparent;">
+        <img src="https://streak-stats.demolab.com/?user=SandhuAmy35&background=00000000&hide_border=true&ring=5391FE&fire=5391FE&currStreakLabel=5391FE&sideNums=c9c9c9&currStreakNum=c9c9c9&sideLabels=c9c9c9&dates=c9c9c9" alt="Streak Stats" />
+        <br/>
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SandhuAmy35&bg_color=00000000&hide_border=true&layout=compact&title_color=5391FE&text_color=c9c9c9" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
