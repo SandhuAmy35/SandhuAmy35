@@ -11,10 +11,10 @@
 ---
 
 ### 💻 System Specs (About Me)
-- 🔭 **Currently working on:** C, C++, Assembly, and low-level system architecture.
-- 🌱 **Focusing on:** Reverse engineering (ScummVM GSoC prep), custom RDBMS, and embedded systems.
-- 🚀 **Building:** An RL-driven thermal engine and a custom GPU architecture simulator using ML.
-- 🤝 **Looking to collaborate on:** CUDA, drivers, OS development, and compilers.
+- 🔭 **Currently working on:** C++17, RISC-V GPGPU architecture, and building custom assemblers.
+- 🌱 **Focusing on:** Reverse engineering (ScummVM GSoC), custom B+ Tree RDBMS, and bare-metal embedded systems.
+- 🚀 **Building:** An RL-driven thermal engine (using NVML) and an AI PoisonGuard for fintech.
+- ⚡ **Workflow:** Arch Linux, Hyprland, Doom Emacs, and Neovim.
 
 ---
 
@@ -23,7 +23,7 @@
 **Core Systems & Languages**<br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -35,11 +35,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Infrastructure**<br>
+**Environment & Infrastructure**<br>
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
