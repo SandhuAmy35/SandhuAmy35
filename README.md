@@ -1,4 +1,3 @@
-# 💫 About Me:
 # About Me :<br><br>* 🔭 I'm currently working on C, C++, Assembly, and low-level system architecture.<br>* 👯 I'm looking to collaborate on projects involving CUDA, drivers, OS development, and compilers.<br>* 🤝 I'm looking for help with my custom GPU architecture simulator and reinforcement learning thermal engine.<br>* 🌱 I'm currently learning and refining my skills in embedded systems and system design.<br>* 💬 Ask me about reverse engineering in ScummVM and building my own RDBMS.<br>* ⚡ Fun fact: I am simulating my custom graphics card using an ML model on the circuit.
 
 
