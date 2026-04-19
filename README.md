@@ -47,12 +47,12 @@
 ### 📊 Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SandhuAmy35&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=5391FE&icon_color=5391FE" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=SandhuAmy35&theme=dark&hide_border=true&ring=5391FE&fire=5391FE&currStreakLabel=5391FE" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=SandhuAmy35&bg_color=00000000&hide_border=true&hide_rank=true&include_all_commits=false&count_private=false&title_color=5391FE&icon_color=5391FE&text_color=c9c9c9" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=SandhuAmy35&background=00000000&hide_border=true&ring=5391FE&fire=5391FE&currStreakLabel=5391FE&sideNums=c9c9c9&currStreakNum=c9c9c9&sideLabels=c9c9c9&dates=c9c9c9" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SandhuAmy35&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=5391FE" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SandhuAmy35&bg_color=00000000&hide_border=true&layout=compact&title_color=5391FE&text_color=c9c9c9" width="50%" />
 </div>
 
 <br>
