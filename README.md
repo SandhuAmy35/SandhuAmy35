@@ -10,7 +10,6 @@
 
 ---
 
-### 💻 System Specs (About Me)
 - 🔭 **Currently working on:** C++17, RISC-V GPGPU architecture, and building custom assemblers.
 - 🌱 **Focusing on:** Reverse engineering (ScummVM GSoC), custom B+ Tree RDBMS, and bare-metal embedded systems.
 - 🚀 **Building:** An RL-driven thermal engine (using NVML) and an AI PoisonGuard for fintech.
